@@ -1,6 +1,11 @@
 # 枝·Branch Chat
 A tree structure of dialog
 ---
+部分实机展示
+<img width="511" height="1033" alt="image" src="https://github.com/user-attachments/assets/62ffe62d-54b8-44a5-9d9d-1a525c443615" />
+<img width="500" height="984" alt="image" src="https://github.com/user-attachments/assets/d18b9666-03bb-4977-a1d3-fb48899095ca" />
+<img width="501" height="1070" alt="image" src="https://github.com/user-attachments/assets/f407794d-d6f1-46e4-8159-f1a2de3cf5e1" />
+<img width="1349" height="880" alt="image" src="https://github.com/user-attachments/assets/1ed0f2eb-4941-4a35-a0aa-5c9fc8490ded" />
 
 ## 产品需求文档 (PRD) - V1.3
 
